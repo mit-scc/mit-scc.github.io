@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MIT Student Sustainability Coalition</title>
-	<atom:link href="https://anushreechaudhuri.github.io/ssc/feed/" rel="self" type="application/rss+xml" />
-	<link>https://anushreechaudhuri.github.io/ssc/</link>
+	<atom:link href="https://ssc.mit.edu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ssc.mit.edu/</link>
 	<description>Communication. Collaboration. Collective Action.</description>
 	<lastBuildDate>Sun, 20 Feb 2022 05:58:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
-	<url>https://anushreechaudhuri.github.io/ssc/wp-content/uploads/2022/02/cropped-SSC_Logo_NoText-32x32.png</url>
+	<url>https://ssc.mit.edu/wp-content/uploads/2022/02/cropped-SSC_Logo_NoText-32x32.png</url>
 	<title>MIT Student Sustainability Coalition</title>
-	<link>https://anushreechaudhuri.github.io/ssc/</link>
+	<link>https://ssc.mit.edu/</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 </channel>
 </rss>
