@@ -12,20 +12,40 @@
 	<atom:link href="https://ssc.mit.edu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ssc.mit.edu/</link>
 	<description>Communication. Collaboration. Collective Action.</description>
-	<lastBuildDate>Wed, 23 Feb 2022 17:41:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Oct 2022 23:01:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://ssc.mit.edu/wp-content/uploads/2022/02/cropped-SSC_Logo_NoText-1-2-32x32.png</url>
+	<url>https://ssc.mit.edu/wp-content/uploads/2022/10/cropped-SSC_Logo_NoText-32x32.png</url>
 	<title>MIT Student Sustainability Coalition</title>
 	<link>https://ssc.mit.edu/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Hello world!</title>
+		<link>https://ssc.mit.edu/hello-world/</link>
+					<comments>https://ssc.mit.edu/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2022 23:01:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://ssc.mit.edu/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ssc.mit.edu/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
